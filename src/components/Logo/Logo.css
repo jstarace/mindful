@@ -1,0 +1,11 @@
+.Logo{
+  padding: 8px;
+  height: 100%;
+  box-sizing: border-box;
+  text-align: center;
+  transform: rotate(270deg);
+}
+
+.Logo img{
+  height: 100%;
+}

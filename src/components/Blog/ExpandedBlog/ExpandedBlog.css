@@ -1,0 +1,14 @@
+.EntireBlog{
+  width:70%;
+  border: 2px solid white;
+}
+
+.EntireBlog h2{
+  text-align: center;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.EntireBlog p{
+  margin: 15px;
+}

@@ -1,0 +1,51 @@
+.image_container{
+  width: 100%;
+  display: flex;
+  flex-flow: column;
+  margin:auto;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.left_image{
+  width: 75%;
+  margin: auto;
+  border-radius: 35px;
+}
+
+.main_image{
+  margin: 10px;
+}
+
+.right_image{
+  width: 75%;
+  margin: auto;
+  border-radius: 35px;
+}
+
+.side{
+  width: 100%;
+  border-radius: 25px;
+}
+
+.main{
+  width: 100%;
+}
+
+@media only screen and (min-width: 550px){
+  .image_container{
+    flex-flow: row;
+  }
+
+  .left_image{
+    width: 30%;
+  }
+  .main_image{
+    width: 35%;
+  }
+
+  .right_image{
+    width: 30%;
+  }
+}

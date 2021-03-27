@@ -1,0 +1,15 @@
+.BlogEntry{
+  overflow: hidden;
+  height: 82px;
+  margin: 5px;
+
+}
+
+.BlogEntry h2{
+  text-align: center;
+  margin: auto;
+}
+
+.BlogEntry p{
+  margin-left: 20px;
+}

@@ -1,0 +1,27 @@
+/* .NavigationItems{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  height: 100%;
+  width: 50%;
+  justify-content: space-between;
+  vertical-align: bottom;
+} */
+
+@media only screen and (min-width: 550px){
+  .NavigationItems{
+    margin: 0;
+    padding-top: 60px;
+    list-style: none;
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    height: 100%;
+    width: 40%;
+    justify-content: space-between;
+
+  }
+}

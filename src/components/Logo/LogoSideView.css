@@ -1,0 +1,10 @@
+.SideLogo{
+  height: 100%;
+  box-sizing: border-box;
+  padding-left: 20px;
+  color: #4D9078;
+}
+
+.SideLogo img{
+  height: 100%;
+}
