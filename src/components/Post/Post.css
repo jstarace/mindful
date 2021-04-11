@@ -1,9 +1,11 @@
 .BlogEntry{
   overflow: hidden;
-  height: 82px;
-  margin: 5px;
+  /* height: 82px; */
+  max-height: 200px;
+  margin: 2px;
   border: 1px solid white;
-  border-radius: 20px 20px 20px 20px;
+  border-radius: 20px 0px 0px 20px;
+  
 }
 
 .BlogEntry h2{
@@ -12,5 +14,6 @@
 }
 
 .BlogEntry p{
+  margin-top: auto;
   margin-left: 20px;
 }

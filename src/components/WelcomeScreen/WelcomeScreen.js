@@ -1,5 +1,5 @@
 import React from 'react';
-import classes from './WelcomeScreen.css';
+// import classes from './WelcomeScreen.css';
 import Qod from './QuoteOfDay/QuoteOfDay';
 import WelcomeImages from './WelcomeImages/WelcomeImages';
 import WelcomeMessage from './WelcomeMessage/WelcomeMessage';
